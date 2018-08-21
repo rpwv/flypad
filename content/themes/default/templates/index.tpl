@@ -39,7 +39,7 @@
     </div>
 
     {if $system['directory_enabled']}
-        {include file='_directory.tpl'}
+        <!-- {include file='_directory.tpl'} -->
     {/if}
     <!-- page content -->
 {else}
