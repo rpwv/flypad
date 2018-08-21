@@ -34,7 +34,7 @@ define('DEFAULT_LOCALE', 'en_us');
  * It is strongly recommended that plugin and theme developers use debug
  * in their development environments.
  */
-define('DEBUGGING', false);
+define('DEBUGGING', true);
 
 
 // ** LICENCE ** //
