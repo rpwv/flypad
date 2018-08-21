@@ -275,7 +275,7 @@
                 </div>
                 <!-- privacy -->
             {/if}
-            <button type="button" class="btn btn-primary js_publisher">{__("Post")}</button>
+            <button type="button" class="btn btn-primary js_publisher">{__("Pad")}</button>
         </div>
         <!-- publisher-buttons -->
     </div>
