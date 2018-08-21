@@ -8,20 +8,19 @@
 
 // ** MySQL settings ** //
 /** The name of the database */
-define('DB_NAME', 'sngine');
+define('DB_NAME', 'heroku_2017df1df6f2a71');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'b9be7f5a707fc1');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'b1e75db6');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 
-
 // ** System URL ** //
-define('SYS_URL', 'http://localhost/sngine/script'); // e.g (http://example.com)
+define('SYS_URL', 'https://flypad.herokuapp.com'); // e.g (http://example.com)
 
 
 // ** i18n settings ** //
