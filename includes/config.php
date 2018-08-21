@@ -17,7 +17,7 @@ define('DB_USER', 'b9be7f5a707fc1');
 define('DB_PASSWORD', 'b1e75db6');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'us-cdbr-iron-east-01.cleardb.net');
 
 // ** System URL ** //
 define('SYS_URL', 'https://flypad.herokuapp.com'); // e.g (http://example.com)
