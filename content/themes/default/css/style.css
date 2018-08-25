@@ -2585,7 +2585,7 @@ a.data-container:hover, .data-container.clickable:hover {
 }
 .chat-widget.chat-box.opened .chat-head-title .fa-circle,
 .chat-widget.chat-box.new .chat-head-title .fa-circle {
-	color: #94cc66;
+	color: #bef790;
 }
 /* -- */
 
@@ -2618,7 +2618,7 @@ a.data-container:hover, .data-container.clickable:hover {
 	position: relative; /* for close button */
 	background: #f9fafb;
 	background: linear-gradient(#f5f6f7 1%, #ffffff 2%, #ffffff 70%, #f5f6f7 100%);
-	color: #4e5665;
+	color: #a32628;/*4e5665*/
 	font-weight: 600;
 	font-size: 13px;
 	line-height: 18px;
@@ -2641,9 +2641,9 @@ a.data-container:hover, .data-container.clickable:hover {
 }
 .chat-widget.chat-box.opened .chat-head-title, 
 .chat-widget.chat-box.new .chat-head-title {
-	background: #597ba5;
+	background: #a32628;
 	color: #fff;
-	border-color: #3A5B84;
+	border-color: #a32628;
 	border-radius: 2px 2px 0 0;
 	border-bottom: 0 none;
 }

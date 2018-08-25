@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2018-08-10 16:30:48
+/* Smarty version 3.1.31, created on 2018-08-24 04:21:15
   from "C:\xampp\htdocs\sngine\Script\content\themes\default\templates\_publisher.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5b6dbdb80c0ed2_39138958',
+  'unifunc' => 'content_5b7f87bbbf58f2_68195356',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '7aefe8d7b8f7486f4859a365851b5ee641db9c50' => 
     array (
       0 => 'C:\\xampp\\htdocs\\sngine\\Script\\content\\themes\\default\\templates\\_publisher.tpl',
-      1 => 1509916166,
+      1 => 1534865276,
       2 => 'file',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:_emoji-menu.tpl' => 1,
   ),
 ),false)) {
-function content_5b6dbdb80c0ed2_39138958 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b7f87bbbf58f2_68195356 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="x-form publisher" data-handle="<?php echo $_smarty_tpl->tpl_vars['_handle']->value;?>
 " <?php if ($_smarty_tpl->tpl_vars['_id']->value) {?>data-id="<?php echo $_smarty_tpl->tpl_vars['_id']->value;?>
@@ -385,7 +385,7 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);
                 </div>
                 <!-- privacy -->
             <?php }?>
-            <button type="button" class="btn btn-primary js_publisher"><?php echo __("Post");?>
+            <button type="button" class="btn btn-primary js_publisher"><?php echo __("Pad");?>
 </button>
         </div>
         <!-- publisher-buttons -->
