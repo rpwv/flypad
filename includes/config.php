@@ -5,7 +5,7 @@
  * @package Sngine
  * @author Zamblek
  */
-// name,heroku_2017df1df6f2a71, user, b9be7f5a707fc1, password, b1e75db6, host, us-cdbr-iron-east-01.cleardb.net
+/** name,heroku_2017df1df6f2a71, user, b9be7f5a707fc1, password, b1e75db6, host, us-cdbr-iron-east-01.cleardb.net**/
 // ** MySQL settings ** //
 /** The name of the database */
 define('DB_NAME', 'heroku_2017df1df6f2a71');
