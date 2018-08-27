@@ -2,11 +2,10 @@
 /**
  * config
  * 
- * @package Sngine
+ * @package Flypad
  * @author Zamblek
  */
-/** name,heroku_2017df1df6f2a71, user, b9be7f5a707fc1, password, b1e75db6, host, us-cdbr-iron-east-01.cleardb.net**/
-// ** MySQL settings ** //
+ // ** MySQL settings ** //
 /** The name of the database */
 define('DB_NAME', 'heroku_2017df1df6f2a71');
 
@@ -17,7 +16,7 @@ define('DB_USER', 'b9be7f5a707fc1');
 define('DB_PASSWORD', 'b1e75db6');
 
 /** MySQL hostname */
-define('DB_HOST', ' us-cdbr-iron-east-01.cleardb.net');
+define('DB_HOST', 'us-cdbr-iron-east-01.cleardb.net');
 
 // ** System URL ** //
 define('SYS_URL', 'https://flypad.herokuapp.com'); // e.g (http://example.com)
