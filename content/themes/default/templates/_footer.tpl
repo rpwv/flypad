@@ -6,6 +6,7 @@
 <!-- footer -->
 <div class="container">
 	<div class="row footer">
+	<b>Changying Huan Lee</b>
 		<div class="col-lg-6 col-md-6 col-sm-6">
 			&copy; {'Y'|date} {$system['system_title']} · <span class="text-link" data-toggle="modal" data-url="#translator">{$system['language']['title']}</span>
 		</div>
