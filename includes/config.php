@@ -19,7 +19,7 @@ define('DB_PASSWORD', 'b1e75db6');
 define('DB_HOST', 'us-cdbr-iron-east-01.cleardb.net');
 
 // ** System URL ** //
-define('SYS_URL', 'https://flypad.herokuapp.com'); // e.g (http://example.com)
+define('SYS_URL', 'https://rpwz-social.herokuapp.com'); // e.g (http://example.com)
 
 
 // ** i18n settings ** //
